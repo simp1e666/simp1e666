@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simp1e666
-- 👀 I’m interested in paly football
-- 🌱 I’m currently learning to how to paly football
-- 💞️
+- 👀 I’m interested in play football
+- 🌱 I’m currently learning to how to play football
 - 📫 How to reach me 2059476338@qq.com
 
 <!---
